@@ -51,25 +51,22 @@ Open `index.html` directly in your web browser
 └── README.md                    # Project documentation
 ```
 ---
-## 🎮 How to Play
+ 🎮 How to Play
 
 - **Aim:** Move your mouse to change the angle of the launcher; the prediction line shows the path.
 - **Shoot:** Click the left mouse button to launch the current bubble.
 - **Goal:** Create a cluster of **three or more** matching colored bubbles upon impact to clear them.
 - **Game Over:** The game ends if the bubbles reach the bottom edge of the screen.
 ---
-## 🖼️ Game Preview
+ 🖼️ Game Preview
 - **Here’s how the game looks:**
 ![Bubble Shooter Screenshot](./assets/images/banner.png)
 ![Bubble Shooter Screenshot](./assets/images/Screenshot.png)
 
 ---
-
----
-## ✅ Conclusion
+Conclusion
 - **Bubble Shooter** includes essential modern features like the **prediction line** and **high score saving**.
 - Built using **HTML5 Canvas**, **CSS**, and **JavaScript** without reliance on heavy frameworks.
 - Designed for an engaging and fast-paced arcade experience.
----
-## 🎉 Enjoy the Game!
+ 🎉 Enjoy the Game!
 Get ready for some addictive bubble-popping action! 🚀
