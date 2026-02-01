@@ -4,13 +4,7 @@ Bubble Shooter project
  - **Bubble Shooter** is an interactive, physics-based arcade game built using pure **HTML5 Canvas** and **JavaScript**. The goal is to shoot colored bubbles to form clusters of three or more, causing them to burst and drop.
 - **🔗 Play it Live:** [Bubble Shooter Live Demo](https://Reethika12hi.github.io/bubble-shooter/)
 
----
-Key Features
-- **Precise Aiming** – Includes a **Prediction Line** with bounce physics for accurate shots.
-- **Dynamic Scoring** – Features a **Scoring Multiplier** for dropping large, detached clusters.
-- **Game Awareness** – **"Next Up" Row Preview** shows the player when the next row will drop down.
-- **High Score Tracking** – Saves your personal best score using browser's `localStorage`.
-- **Classic Gameplay** – Core logic for cluster finding, removal, and floating bubble detection.
+
 ---
 Technologies Used
 - **HTML5 Canvas** – Game viewport and rendering.
@@ -57,9 +51,7 @@ Open `index.html` directly in your web browser
 - **Here’s how the game looks:**
 ![Bubble Shooter Screenshot](./assets/images/banner.png)
 ![Bubble Shooter Screenshot](./assets/images/Screenshot.png)
-
----
-Conclusion
+conclusion:-
 - **Bubble Shooter** includes essential modern features like the **prediction line** and **high score saving**.
 - Built using **HTML5 Canvas**, **CSS**, and **JavaScript** without reliance on heavy frameworks.
 - Designed for an engaging and fast-paced arcade experience.
