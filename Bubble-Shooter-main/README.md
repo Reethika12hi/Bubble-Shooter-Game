@@ -1,28 +1,28 @@
-# Bubble Shooter 🫧 
+Bubble Shooter 🫧 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Game](https://img.shields.io/badge/Arcade%20Game-Shooter-FF00FF)
 ---
-## 🚀 Overview
+ Overview
  - **Bubble Shooter** is an interactive, physics-based arcade game built using pure **HTML5 Canvas** and **JavaScript**. The goal is to shoot colored bubbles to form clusters of three or more, causing them to burst and drop.
 - **🔗 Play it Live:** [Bubble Shooter Live Demo](https://Reethika12hi.github.io/bubble-shooter/)
 
 ---
-## ✨ Key Features
+Key Features
 - **Precise Aiming** – Includes a **Prediction Line** with bounce physics for accurate shots.
 - **Dynamic Scoring** – Features a **Scoring Multiplier** for dropping large, detached clusters.
 - **Game Awareness** – **"Next Up" Row Preview** shows the player when the next row will drop down.
 - **High Score Tracking** – Saves your personal best score using browser's `localStorage`.
 - **Classic Gameplay** – Core logic for cluster finding, removal, and floating bubble detection.
 ---
-## 🛠️ Technologies Used
+Technologies Used
 - **HTML5 Canvas** – Game viewport and rendering.
 - **CSS3** – External styling for layout and custom title.
 - **JavaScript (ES6+)** – All game logic, physics, and state management.
 ---
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/Reethika12hi/Bubble-Shooter.git
