@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
-</p>
 
 <h1 align="center">🎯 Bubble Shooter Arcade Game</h1>
 
 <p align="center">
   <b>A modern, physics-based arcade game built with pure HTML5 Canvas & JavaScript</b>
 </p>
+<p align="center">
+  <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
+</p>
+
 
 <p align="center">
   <a href="https://reethika12hi.github.io/bubble-shooter/" target="_blank">
