@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
+  <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
 </p>
 
 <h1 align="center">🎯 Bubble Shooter Arcade Game</h1>
