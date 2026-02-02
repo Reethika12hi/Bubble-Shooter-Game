@@ -110,7 +110,7 @@ cd Bubble-Shooter
 ## 🖼️ Game Preview
 
 <p align="center">
-  <img src="./assets/images/Screenshot.png" alt="Gameplay Screenshot" width="700"/>
+  <img src="Bubble-Shooter-main/assets/images/Screenshot.png" alt="Gameplay Screenshot" width="700"/>
 </p>
 
 ---
