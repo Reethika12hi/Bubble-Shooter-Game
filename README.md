@@ -4,9 +4,7 @@
 <p align="center">
   <b>A modern, physics-based arcade game built with pure HTML5 Canvas & JavaScript</b>
 </p>
-<p align="center">
-  <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
-</p>
+
 
 
 <p align="center">
@@ -24,7 +22,9 @@
   <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"/>
 </p>
-
+<p align="center">
+  <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
+</p>
 ---
 
 ## 🚀 Project Overview
