@@ -25,6 +25,7 @@
 <p align="center">
   <img src="Bubble-Shooter-main/assets/images/banner.png" alt="Bubble Shooter Banner" width="800"/>
 </p>
+
 ---
 
 ## 🚀 Project Overview
